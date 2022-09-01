@@ -1,1 +1,122 @@
 # ramandsons-services-agency.com
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title> ram and sons.html</title> 
+
+	
+</head>
+<body style=" background-color:powderblue; margin-left:80px ;"> 
+
+	<div style="width:1000px;height: 300px;background:lightsteelblue; margin-left:100px ;">
+		
+          <div style=" background: yellow;width: 200px; height: 200px; margin-left: 30px; float: left; margin-top:40px;"><img style="width:200px; height: 200px;" src="Ee.jpeg ">
+          </div>
+<div style="float: left;">
+
+		<p style="font-size: 250%; " >&nbsp;&nbsp; <a href=""> RAM AND SONS SERVICES AGENCY </a><br> <h2 style="margin-left: 50px;" >-19,S/F Dilshad Colony Shahdara <br>New Delhi-110095 </span> email:&nbsp; <a href=" mailto:ramandsons.services@gmail.com ">ramandsons.services@gmail.com  </a></p>Mobile No:9650255910, 7428197279</h2>
+
+		
+	</div>
+	</div>
+
+ <strong style="margin-left:30%; font-size: 30px ;">COMPANY PROFILE </strong><br>
+             <strong style="margin-left:15%; font-size: 30px;"> WELCOME TO RAM AND SONS SERVICES AGENCY</strong><br> <br>
+
+
+<h3><strong>RAM AND SONS SERVICES AGENCY</strong> was established in <b>2012</b> in New Delhi. Ram And Sons is dedicated to addressing your surveying needs in a manner that exceeds expectations. The Company provides consulting services in the fields of detail carrying out detailed Topographical Survey, Detailed Route Survey for Pipe Line, Tunnel Survey, Road Survey, Irrigation Survey, Construction Setting Out, Soil Resistivity Survey and Cadastral Survey, Setting-Out Job for Infrastructure Development Works & 3D monitoring. It uses the latest technology and has qualified professional staff with a wide range of experience.
+</h3> 
+
+
+<br><br><h3>
+ <strong> RAM AND SONS SERVICES AGENCY</strong> also carries out dimensional building surveys for the individual who wishes to build, extend or renovate. Our staff of Engineers, Surveyors, and Technicians is experienced in a variety of measurement techniques and software applications so our end product is tailored to the client’s requirements.
+</h3><br><h3> 
+We work hard to develop strong relationships with our clients. As your survey partner, our goal is to understand your business, your project, and your particular land survey challenges.
+</h3>
+
+<br><br> <strong style="font-size:40px;margin-left:80px;"> <u>OUR EXPERTISE LIES IN:</u></strong>
+ <h3><li>	Preparation of detailed topographical plan sowing all existing features.</li>
+<li>	Triangulation surveys</li>
+	<li>A lignment surveys</li>
+<li>	Preliminary reconnaissance surveys and identification of Control Points</li>
+	<li>Conducting closed traverse survey</li>
+ <li>  	Conducting leveling survey to transfer Temporary Bench Mark (TBM) on Traverse Point.</li>
+<li>	Engineering Survey.</li>
+<li>	Railways track line survey.</li>
+<li>	Road works related to survey.</li>
+
+
+</h3>
+
+
+
+
+<br><br> <strong style="font-size:40px;margin-left:80px;"> <u>
+Administration and Experience</u></strong><h3>
+<li>	Technical project management for the surveying work</li>
+	<li>Administrative project management for the survey work</li>
+	<li>Competent partner for all aspects of surveying</li>
+	<li>Attending the interests of the surveying on major construction sites in order to optimize the construction program</li>
+<li>Competent and professional communication in line with the project organization towards the owner, construction management, contractor, surveyor, etc.</li>
+</h3>
+
+	<h3 style="margin: 80px;"> <strong style="font-size:;">RAM AND SONS </strong> social working conditions, personnel management and adherence to legal
+employment regulations, are contributing factors in keeping the fluctuations in staff at an overall
+low. This means that site- specific information and knowledge is retained within the company
+for longer. Tmany years of experience that our employees possess are extremely valuable for this part of the survey work.</h3></p>
+<br>
+<b style="font-size:30px; margin-left:80px"><u> IRRIGATION SERVICES</u></b>
+<h3 style="margin: 60px";> <strong>RAM AND SONS SERVICES AGENCY</strong>  has surveyed and designed irrigation projects ranging in size from 5 hectares to 5,000 hectares. Our services in this field include complete survey analysis,
+layout design, earthwork design and the preparation of plans and specifications for Tendering
+purposes. Through this work, we have established a good reputation for a professional approac
+to survey, design and construction supervision. To date, Ram and Sons has been involved with
+the survey and design of more than 6000 hectares of irrigation for the production of cotton fodder, small crops, and orards. Other projects include gully dam design, stock water storages,
+stock water reticulation schemes, domestic water advice and the survey and preparation of survey and
+databases for flood plain management. The Company's design skills are based on accurate
+surveying, modern computer assessment, design, and computer drafting. The Company operates trimble GPS Equipment for use in real time and static situations</h3><br>
+ 
+ <strong style="font-size:20px ;margin-left:80px;">RAM AND SERVICES AGENCY </strong> <h3 style=" margin-left:80px"> provides a survey,design and constructio management service to the lrrigation industry.</h3> <h3  style="margin-left:80px;">Ram And Sons’s Irrigation Consultants are able to advise in many aspects of irrigation design and
+environmental services, including those related to Beeline data conversion, Multiplan design for gemstar land leveling and EM-31 surveys </h3>
+
+<br><br>
+
+ <strong style="font-size:40px;margin-left:80px;"> <u>My Clients List:</u></strong>
+ <br>
+ <strong style="font-size:30px;margin-left:80px;">M/S Larsen & Toubro Ltd.</strong> <h3  style="margin-left:80px;">
+1. International Convention & Expo Centre Dwarka<br><br>
+2. Indira Gandhi International Airport New Delhi<br><br></h3>
+ <strong style="font-size:40px;margin-left:80px;">M/S TATA PROJECTS LTD,</strong> <br><br><h3  style="margin-left:80px;">
+1. Tata Projects Limited Kissmi Projects Gurgaom H.R.<br><br>
+2. New Parliament Building at Parliament House<br><br>
+3. Mahindra NSEZ Project Noida Client- Name:Tech Mahindra Limited.<br><br>
+4. Projects Sir Gangaram Hospital Trust , Old Rajinder Nagar, Delhi-110060.
+<br><br>
+5. IKEA Project Gurgaon<br><br>
+
+<strong style="font-size:40px;"> <u>M/S CONSOLIDATED CONSTRUCTION CONSORTIUM LTD.</u></strong><br>
+6 DMRC IT PARK.<br><br>
+7. ONGC Bldgs. Basant Kunj.<br><br>
+ <strong style="font-size:40px;margin-left:80px;"> <u>M/S BL KASHYAP & SON LTD.</u></strong><br><br>
+1 DLF Downtown Project Sector – 25 A Gurgaon Haryana.<br><br>
+2 Bhutani Cyberthum Project Noida Sector 140A.<br><br>
+3 STT Data Centre DLF Project Noida Sector 142A- Noida U.P.<br><br>
+4. Elan Paradise Project Gurgaon Sector 50<br><br>
+<strong style="font-size:40px;margin-left:80px;">M/S N.S. ASSOCIATES PVT.LTD.</strong><br><br>
+1 Guru Gobind Singh Mother & Chaild Hospital Raman Mandi Bathinda Punjab.<br><br>
+2. Graphic era Global School Dehradun U.K.<br><br>
+3. GF-1 Arunodaya Appartments,Chowgule Real Extate, Zerinth, Zuarinagar South Goa.403726<br><br>
+4. Bhopal Garden Hospital Bhopal M.P.<br><br>
+ <strong style="font-size:40px;margin-left:80px;"> LIST OF EQUIPMENTS AVAILABLE</strong><br><br>
+1 Total Station SOKKIA<br><br>
+2 Total Station Trimble<br><br>
+3 Total Station NIKON<br><br>
+4 Auto Levels SOKKIA<br><br>
+5. DGPS.<br><br>
+<span>Sushma singh</span>
+<span style="margin-left:60%">Managing Director</span> <div style="width:150px; height:50px ; background-color: gray;"> <img style= "width:150px; height:50px ; background-color: gray;" src="Rr.jpeg"></div><br><br>
+<b>RAM AND SONS SERVICES AGENCY</b><br>
+Mbl : 9650255910, 9650255449<br><br></h3>
+</h3>Email : <a href="mailto:ramandsons.services@gmail.com">ramandsons.services@gmail.com </a> </p></h3></p>
+</body>
+</html>
